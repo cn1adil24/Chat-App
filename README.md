@@ -1,2 +1,3 @@
-# Chat-App
-A simple chat application between client and server
+# Chat Application
+
+A simple chat application between client and server in C#
